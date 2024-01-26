@@ -29,7 +29,7 @@ This is a minimalistic Fund Me Application that allows users to interact and per
   - You'll know you've installed yarn right if you can run:
     - `yarn --version` And get an output 
 
-## To Clone The Repo
+## Clone Repo
 
 ```
 git clone https://github.com/zubyoha/fund-me-app
@@ -44,7 +44,5 @@ cd fund-me-app
 
 Project Link: [https://github.com/zubyoha/fund-me-app](https://github.com/zubyoha/fund-me-app)
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
