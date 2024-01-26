@@ -32,7 +32,7 @@ This is a minimalistic Fund Me Application that allows users to interact and per
 ## To Clone The Repo
 
 ```
-git clone https://github.com/zubyoha/fund-me-dapp
+git clone https://github.com/zubyoha/fund-me-app
 cd fund-me-app
 ```
 
@@ -42,7 +42,7 @@ cd fund-me-app
 [![Zuby Oha Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubyoha/)
 
 
-Project Link: [https://github.com/zubyoha/fund-me-app](https://github.com/zubyoha/fund-me-dapp)
+Project Link: [https://github.com/zubyoha/fund-me-app](https://github.com/zubyoha/fund-me-app)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
