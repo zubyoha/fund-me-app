@@ -3,7 +3,7 @@
 
   <p align="center">
 
-This is a minimalistic Fund Me Application that allows users to interact and perform the following actions:
+This is a minimal Fund Me Application that allows users to interact and perform the following actions:
 
 - **Connect** their Metamask wallet to the application and select the network they want to use.
 - **Fund** with any amount of Ether (ETH).
