@@ -36,13 +36,6 @@ git clone https://github.com/zubyoha/fund-me-app
 cd fund-me-app
 ```
 
-<!-- CONTACT -->
-# Contact
-[![Zuby Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zubyoha)
-[![Zuby Oha Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubyoha/)
-
-
-Project Link: [https://github.com/zubyoha/fund-me-app](https://github.com/zubyoha/fund-me-app)
 
 
 
